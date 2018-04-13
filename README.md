@@ -1,6 +1,7 @@
 # 500熊猫快闪
 
 ##*游戏介绍：*
+
 -顾名思义，一只萌萌哒的熊猫小彩，我们简称她为：xc，举着一把萌萌哒的小伞，躲雨，最高500关，看你能挑战到几关，至今无人能问鼎，一旦有人打破僵局，我们一定会第一时间通知您，也许那个人就是你，也说不定：）
 
 -游戏很简单，点击屏幕开始，左右移动避开雨点，过关越多，雨会越多，速度越快，如果不能眼急手快，很难取得胜利哦，游戏前，热热身，跳一跳，集中注意力，别走神哦，然后，开始吧
@@ -17,6 +18,7 @@
 # Flash Panda 500
 
 ##*Introduction:*
+
 -As the name implies, a cute little panda named Xiaocai, we abbreviate her as: XC, holding a small umbrella, dodging rain, up to 500 levels, to see if you can challenge to a few levels, so far no one can win. Once someone breaks the deadlock, we will definitely let you know. Maybe that person is you, maybe everyone :)
 
 -The game is very simple, click the screen to start, move around to avoid the rain, the more the clearance, the more the rain will be, the faster the speed, if you can not hurry, it is difficult to pass, before start game, warm up, jump, focus Attention, don’t get lost, then start:)
